@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHoloRedLight">@android:color/holo_red_light</color>
+    <color name="colorHoloRedDark">@android:color/holo_red_dark</color>
+    <color name="colorAccent">#313335</color>
+    <color name="colorPrimary">#00897B</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="holoGreenLight">#99cc00</color>
+    <color name="colorMessage">#4ae864</color>
+</resources>
